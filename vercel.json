@@ -3,12 +3,6 @@
   "outputDirectory": "dist",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "routes": [
-    {
-      "src": "/files/(.*)",
-      "dest": "/files/$1"
-    }
-  ],
   "headers": [
     {
       "source": "/files/(.*)",
