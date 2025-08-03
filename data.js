@@ -4,7 +4,7 @@ export const files = [
     type: "PDF",
     project: "Tech BLog",
     label: "Projects",
-    path: "files/breaking_automation_wave.pdf",
+    path: "files/Breaking Through the Automation Wave.pdf",
     downloadName: "breaking_automation_wave.pdf" // Custom download filename
   },
   {
@@ -12,7 +12,7 @@ export const files = [
     type: "PDF", 
     project: "Tech Article",
     label: "Projects",
-    path: "files/entangled_future_unhackable_networks.pdf",
+    path: "files/Entangled Future and the Unhackable Networks of Tomorrow.pdf",
     downloadName: "entangled_future_unhackable_networks.pdf"
   },
   {
@@ -20,7 +20,7 @@ export const files = [
     type: "PDF", 
     project: "Tech Article",
     label: "Projects",
-    path: "files/silicon_ghosts.pdf",
+    path: "files/Silicon Ghosts.pdf",
     downloadName: "silicon_ghosts.pdf"
   }
 ];
